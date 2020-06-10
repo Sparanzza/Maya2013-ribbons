@@ -1,8 +1,8 @@
 ################################################################################
-##  				              SPARANZZA                                   ##
+##  				  SPARANZZA                                   ##
 ##  	         A imaginary world whitout hunger of freedmon                 ##
-##  		               http://www.sparanzza.com                           ##
-##  		                aurelio@sparanzza.com                             ##
+##  		           http://www.sparanzza.com                           ##
+##  		            aurelio@sparanzza.com                             ##
 ##  	     This script create Ribbons from multiple curves seleted          ##
 ################################################################################
 
